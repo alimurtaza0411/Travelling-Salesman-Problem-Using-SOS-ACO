@@ -2,5 +2,6 @@ The Traveling Salesman Problem(TSP) is one of the most famous combinatorial opti
 
 
 Collaborators
+- Alimurtaza Mustafa Merchant
 - Aprameya Dash
 - Suyash Chintawar
